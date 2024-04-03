@@ -13,8 +13,10 @@ namespace MODUL7_KELOMPOK_4
             DataMahasiswa_1302223071 dataMahasiswa = new DataMahasiswa_1302223071();
             dataMahasiswa.ReadJSON();
             Console.ReadLine();
+            TeamMembers team = new TeamMembers();
+            team.ReadJSON();
+            Console.ReadLine();
 
-          
         }
     }
 }

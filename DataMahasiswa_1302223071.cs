@@ -47,7 +47,7 @@ namespace MODUL7_KELOMPOK_4
     {
             public string code { get; set; }
             public string name { get; set; }
-        }
+    }
             
         
 

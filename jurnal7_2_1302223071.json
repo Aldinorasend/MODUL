@@ -1,0 +1,47 @@
+{
+  "members" : [
+   {
+      "firstName": "Aldino",
+      "lastName": "Rasendriya",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302223071 "
+   },
+    {
+       "firstName": "Fajar",
+       "lastName": "Ramadhan",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302223146 "
+    },
+    {
+       "firstName": "Harits",
+       "lastName": "Rabbani",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223045 "
+    },
+    {
+       "firstName": "I Wayan",
+       "lastName": "Denanda",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220108 "
+    },
+    {
+      "firstName": "Ghifari",
+      "lastName": "Alwy",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220033 "
+   },
+   {
+      "firstName": "Abel",
+      "lastName": "Santika",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223138 "
+   }
+  
+  ]
+}
