@@ -1,0 +1,10 @@
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe.config
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.xml
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.AssemblyReference.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.CoreCompileInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_K.4C9FB4E8.Up2Date
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.exe
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Pratikum M07\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.pdb
