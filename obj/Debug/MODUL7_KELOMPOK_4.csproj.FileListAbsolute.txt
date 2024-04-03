@@ -1,0 +1,10 @@
+D:\C# Project\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe.config
+D:\C# Project\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe
+D:\C# Project\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.pdb
+D:\C# Project\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.dll
+D:\C# Project\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.xml
+D:\C# Project\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.AssemblyReference.cache
+D:\C# Project\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.CoreCompileInputs.cache
+D:\C# Project\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.CopyComplete
+D:\C# Project\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.exe
+D:\C# Project\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.pdb
