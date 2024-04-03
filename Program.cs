@@ -10,6 +10,9 @@ namespace MODUL7_KELOMPOK_4
     {
         static void Main(string[] args)
         {
+            DataMahasiswa_1302223146 dataMahasiswa = new DataMahasiswa_1302223146();
+            dataMahasiswa.ReadJSON();
+            Console.ReadLine();
         }
     }
 }

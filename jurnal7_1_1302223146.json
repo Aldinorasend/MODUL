@@ -1,0 +1,15 @@
+{
+   "firstName": "Fajar",
+   "lastName": "Ramadhan",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Podomoro",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CR12E4", "name": "Basis Data" }
+   ]
+}

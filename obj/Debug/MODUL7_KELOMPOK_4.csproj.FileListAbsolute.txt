@@ -1,0 +1,10 @@
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe.config
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.exe
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\bin\Debug\MODUL7_KELOMPOK_4.pdb
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.AssemblyReference.cache
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_K.4C9FB4E8.Up2Date
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.exe
+C:\Users\alienware\source\repos\MODUL7_KELOMPOK_4\obj\Debug\MODUL7_KELOMPOK_4.pdb
