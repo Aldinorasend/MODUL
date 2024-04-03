@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Fajar",
+       "lastName": "Ramadhan",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302223146"
+    },
+    {
+       "firstName": "Aldino",
+       "lastName": "Rasendriya",
+       "gender": "male",
+       "age": 20,
+       "nim": "130222xxx"
+    },
+    {
+      "firstName": "Harits",
+      "lastName": "Azfa",
+      "gender": "1302223075",
+      "age": 21,
+      "nim": "130222xxx"
+    },
+    {
+      "firstName": "Ghifary",
+      "lastName": "Permata",
+      "gender": "1302220033",
+      "age": 21,
+      "nim": "130222xxx"
+    }
+  ]
+}

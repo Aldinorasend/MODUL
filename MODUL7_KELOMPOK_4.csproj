@@ -49,6 +49,7 @@
     <Compile Include="DataMahasiswa_1302223146.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamMembers_1302223146.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
